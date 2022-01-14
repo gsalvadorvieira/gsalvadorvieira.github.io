@@ -1,3 +1,5 @@
+(quick tutorial below)
+
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
